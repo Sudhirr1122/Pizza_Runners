@@ -21,4 +21,3 @@
 The Pizza Runner SQL analysis offers valuable insights into customer behavior, runner performance, and operational efficiency. Leveraging these insights can drive improvements in delivery operations, customer satisfaction, and overall business performance.
 
 Feedback on the analysis and findings is welcomed for further refinement. Thank you!
-# Pizza_Runners
